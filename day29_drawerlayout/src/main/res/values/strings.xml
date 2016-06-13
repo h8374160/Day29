@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day29_DrawerLayout</string>
+
+    <string-array name="urls">
+        <item>搜狐</item>
+        <item>千锋</item>
+        <item>腾讯</item>
+        <item>淘宝</item>
+    </string-array>
+</resources>
